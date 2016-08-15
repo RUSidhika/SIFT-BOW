@@ -1,0 +1,22 @@
+This Document gives a step by step procedure of running the Sift_Bow.py file.
+
+1. Unzip the Python_Code.zip. It contains the following:
+	--> training: This folder has images for the Sift_Bow.py to train.
+        --> testing: This foldr has the images on which the Sift_Bow.py performs testing.
+        --> Sift_Bow.py: This is the code for performing Object Recognition using the classical SIFT Bag of Words approach. 
+
+2. Open the Sift_Bow.py file.
+
+3. On the Line 14 of the code, update the path to training images
+
+4. On the line 17 of the code, update the path to testing images.
+
+5. That is all you need to do for the code to run succesfully.
+
+Results: 
+
+--> Predicted Labels: It gives the predicted labels by the Sift_Bow model.
+--> Ground Truth: It is the actual labels of the testing images. 
+--> Accuracy: It gives the percentage of correct estimation. 
+
+Pleae feel free to email at sidhika.varshney@rutgers.edu for any clarifications.
